@@ -8,3 +8,8 @@ Wireframing is the process of making a blueprint of the structure of an applicat
 2. Navigation: This involves the necessary links to different pages.
 3. Content placement: This involves how items have been oragnized in the prototype.
 4. Functionality: This shows the basic functionality of the prototype.
+
+
+## Types of Wireframes
+1. Low fidelity wireframe: With this kind of wireframe, it does not contain detailed design and that is not the final design for development phase.
+2. High fidelity wireframe: With this kind of wireframe, it contains a detailed design of the prototype and is usually the final design for development phase.
