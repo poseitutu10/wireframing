@@ -19,3 +19,8 @@ Wireframing is the process of making a blueprint of the structure of an applicat
 2. Miro
 3. Adobe XD
 4. Sketch
+
+## Benefits of wireframing
+1. To clarify ideas
+2. To aid in development phase
+3. To validate design prototype
