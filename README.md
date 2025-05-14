@@ -13,3 +13,9 @@ Wireframing is the process of making a blueprint of the structure of an applicat
 ## Types of Wireframes
 1. Low fidelity wireframe: With this kind of wireframe, it does not contain detailed design and that is not the final design for development phase.
 2. High fidelity wireframe: With this kind of wireframe, it contains a detailed design of the prototype and is usually the final design for development phase.
+
+## Popular Wireframing Tools
+1. Figma
+2. Miro
+3. Adobe XD
+4. Sketch
